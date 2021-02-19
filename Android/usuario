@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Wed, 23 Sep 2020 03:56:06 GMT
+
+{"data":{"success":true,"user":"Jose","id":24,"logopeda":"No asignado"}}
