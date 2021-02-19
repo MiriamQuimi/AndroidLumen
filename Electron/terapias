@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Mon, 21 Sep 2020 23:05:05 GMT
+
+{"data":{"terapias":[{"idterapia":1,"nombreterapia":"Terapia Memoria","descripcion":"Terapia para reforzar la habilidad de memorizar objetos","idtipodislexia":2,"estadoexistencia":"A","usuariocreacion":"AllissonMenoscal","fechacreacion":"2020-06-11 18:39:17.167385","usuariomodificacion":"Allisson Menoscal","fechamodificacion":"2020-06-11 19:26:10.805574"},{"idterapia":2,"nombreterapia":"Terapia Orientacion Espacial","descripcion":"Terapia para reforzar la ubicacion de los objetos","idtipodislexia":3,"estadoexistencia":"A","usuariocreacion":"AllissonMenoscal","fechacreacion":"2020-06-11 18:39:40.622214","usuariomodificacion":null,"fechamodificacion":null}],"tipodislexia":"Superficial","tipodislexia1":"Mixta"}}
